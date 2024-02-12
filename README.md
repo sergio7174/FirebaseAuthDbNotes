@@ -1,7 +1,6 @@
 <h1 align ="center" > 🏆 FirebaseDBNotes  </h1>
-<h5  align ="center"> 
-React Native - Firebase Auth and Db - EDIT/ADD/REMOVE notes </h5>
-<br>
+<h1  align ="center"> 
+React Native - Firebase Auth and Db - EDIT/ADD/REMOVE notes </h1>
 <br>
 
   * [Configuration and Setup](#configuration-and-setup)
