@@ -32,7 +32,7 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 
 ## ✔️ Tecnologias Utilizadas:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/react%20native-%2385C7F2))
 ![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-lightblue?style=for-the-badge)
