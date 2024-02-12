@@ -52,14 +52,8 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ##  Key Features:
 
 - User registration and login
-- Authentication using JWT Tokens
-- Add, edit, delete Products
- - Leave a Reviews
-- Delete Reviews
-- Password Update
-- Search Live
-- 404 Page and many more
-- Responsive Design
+- Authentication 
+- Add, edit, delete Notes.
 <br/>
 
 ##  Technologies used
@@ -68,31 +62,14 @@ This project was created using the following technologies.
 
 ####  Frontend 
 
-- [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications
+- [React Native ]
+ It is a framework developed by Facebook for creating native-style apps for iOS & Android under one common language, JavaScript.
 - [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
-- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
-- [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [React-bootstrap](https://mui.com/) - For User Interface
-- [React Redux](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
-- [React Toastify](https://www.npmjs.com/package/react-toastify) - To display interactive and responsive notifications (toasts) in web applications
-
-####  Backend 
-
-- [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
-- [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
-- [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
-- [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Middleware module used in Node.js web applications to manage cookies
-- [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
-- [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
-- [express-validator](https://www.npmjs.com/package/express-validator) - Used in Node.js applications with the Express framework to validate data submitted by users (user input)
-- [nodemon](https://nodemon.io/) - Development utility for Node.js applications. Node.js is a runtime platform that allows you to run JavaScript on the server side.t
-- [Multer] - Handle Images
-
-####  Database 
-
- - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
+- [react-navigation/native](https://reactnavigation.org/)) - To handle routing
+- [Firebase](https://firebase.google.com/?gad_source=1&gclid=Cj0KCQiAoKeuBhCoARIsAB4Wxte5kKnjJzYp7DGbeK4wD-BU_i0Oke02VWuSac2NMBDt4wD48sqWYuUaAsBREALw_wcB&gclsrc=aw.ds&hl=es-419) - es una base de datos NoSQL alojada en la nube que te permite almacenar y sincronizar datos entre tus usuarios en tiempo real.
+- [RN - styled Components](https://styled-components.com/docs/basics) - Utilises tagged template literals to style your components
+- [React Redux-toolkit](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
+- [rn flash message](https://www.npmjs.com/package/react-native-flash-message) - Is a React Native module to help you easily create highly customizable flashbars, top notifications or alerts (with iPhone X, XR, XS and XS Max "notch" support).
 
 ## Author
 - Portfolio: 
