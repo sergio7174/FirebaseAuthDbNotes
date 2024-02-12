@@ -44,8 +44,9 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ##  Screenshots:
 <br>
 <img src="./PROJECT IMAGES/IMAGE01.jpg" alt="project screenshot01" />
-<img src="./FRONTEND/src/assets/systempictures/Userprofile.jpg" alt="project screenshot03" />
-<img src="./FRONTEND/src/assets/systempictures/home.jpg" alt="screenshot del proyecto" />
+<img src="./PROJECT IMAGES/IMAGE02.jpg" alt="project screenshot02" />
+<img src="./PROJECT IMAGES/IMAGE03.jpg" alt="project screenshot03" />
+<img src="./PROJECT IMAGES/IMAGE04.jpg" alt="project screenshot04" />
 <br>
 
 ##  Key Features:
