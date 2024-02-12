@@ -51,9 +51,12 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 
 ##  Key Features:
 
-- User registration and login
-- Authentication 
+- User registration and login.
+- Authentication. 
 - Add, edit, delete Notes.
+- Email and Password Validation.
+
+  
 <br/>
 
 ##  Technologies used
@@ -70,11 +73,12 @@ This project was created using the following technologies.
 - [RN - styled Components](https://styled-components.com/docs/basics) - Utilises tagged template literals to style your components
 - [React Redux-toolkit](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
 - [rn flash message](https://www.npmjs.com/package/react-native-flash-message) - Is a React Native module to help you easily create highly customizable flashbars, top notifications or alerts (with iPhone X, XR, XS and XS Max "notch" support).
+- [Tailwind]
 
 ## Author
 - Portfolio: 
 - Github: 
 - Sponsor: 
-- Linkedin:
+- Linkedin:(https://www.linkedin.com/in/sergio-moncada-72589883/)
 - Email: [sergiogmoncada@yahoo.com](mailto:sergiogmoncada@yahoo.com)
 
