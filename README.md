@@ -8,9 +8,6 @@ React Native - Firebase Auth and Db - EDIT/ADD/REMOVE notes </h5>
   * [Key Features](#key-features)
   * [Technologies used](#technologies-used)
       - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-      - [API](#api)
   * [📸 Screenshots](#screenshots)
   * [Author](#author)
   * <br>
