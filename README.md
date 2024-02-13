@@ -21,6 +21,7 @@ In order to run this project locally, simply fork and clone the repository or do
 $ cd client
 $ npm install (to install client-side dependencies)
 $ npx expo start -c  (to start the application - cleaning Cache Memory)
+NODE VERSION: 19.2.0
 
 ```
 ![Static Badge](https://img.shields.io/badge/build-3.15%20mb%20-brightgreen?style=for-the-badge&label=GitHub%20repo%20size&color=brown)
@@ -53,7 +54,7 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 - Authentication. 
 - Add, edit, delete Notes.
 - Email and Password Validation.
-
+  
   
 <br/>
 
