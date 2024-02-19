@@ -27,7 +27,7 @@ NODE VERSION: 19.2.0
 ![Static Badge](https://img.shields.io/badge/build-3.15%20mb%20-brightgreen?style=for-the-badge&label=GitHub%20repo%20size&color=brown)
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
-## ✔️ Tecnologias Utilizadas:
+## ✔️ Technologies used:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react%20native-%2385C7F2?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-yellow?style=for-the-badge)
