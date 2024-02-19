@@ -36,10 +36,6 @@ NODE VERSION: 19.2.0
 ![Static Badge](https://img.shields.io/badge/firebase-%236897B6?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/expo-%23E89F28?style=for-the-badge)
 
-
-
-
-<br>
 ##  Screenshots:
 <br>
 <img src="./PROJECT IMAGES/IMAGE01.jpg" alt="project screenshot01" />
